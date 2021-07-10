@@ -1,0 +1,4 @@
+Synchronization in java is the capability to control the access of multiple threads to any shared resource.
+The synchronization is mainly used to:
+    1. To prevent thread interference.
+    2. To prevent consistency problem.

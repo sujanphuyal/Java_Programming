@@ -1,0 +1,9 @@
+Multithreading is a process of executing multiple threads simultaneously.
+A thread is a lightweight sub-process, the smallest unit of processing.
+
+Advantages of Java Multithreading
+    1) Threads are independent and you can perform multiple operations at the same time.
+    2) Performing many operations at once saves time.
+    3) An exception in one thread does not affect other threads.
+
+Deadlock is a situation where two or more threads are blocked forever, waiting for each other.

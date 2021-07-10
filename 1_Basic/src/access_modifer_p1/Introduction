@@ -1,0 +1,10 @@
+An access modifier specifies which classes can access a given class and its fields, constructors and methods.
+
+Different types of access modifiers:
+	1. Public: class can be accessed from anywhere (within or outside the package and its class)
+	2. Protected: class can be accessed only within the package and its class , if another package wants to access the class it needs to use "extends" keyword
+	3. Default(lack of access modifier): can be accessed only within the package and its class
+	4. Private: can be accessed only within the specific class
+
+
+

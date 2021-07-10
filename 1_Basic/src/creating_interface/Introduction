@@ -1,0 +1,3 @@
+Interface is a mechanism to achieve abstraction and multiple inheritance and hence achieve loose coupling.
+An interface is declared by using the interface keyword.
+A class that implements an interface must implement all the methods declared in the interface.

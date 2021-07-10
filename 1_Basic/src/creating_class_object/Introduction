@@ -1,0 +1,9 @@
+Object is a real world entity.(Can be physical or logical)
+Class is a group of objects which have common properties. (logical)
+
+A class in Java can contain:
+- Fields
+- Methods
+- Constructors
+- Blocks
+- Nested class and interface

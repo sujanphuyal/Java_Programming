@@ -1,0 +1,9 @@
+An exception is an event that disrupts the normal flow of the program.
+The Exception Handling is a mechanism to handle the runtime errors.
+
+There are 5 keywords which are used in handling exceptions in Java.
+    1. try: The "try" keyword is used to specify a block where we should place exception code.
+    2. catch: The "catch" block is used to handle the exception.
+    3. finally: The "finally" block is used to execute the important code of the program.
+    4. throw: The "throw" keyword is used to throw an exception.
+    5. throws: The "throws" keyword is used to declare exceptions. It doesn't throw an exception.

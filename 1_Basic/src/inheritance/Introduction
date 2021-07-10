@@ -1,0 +1,4 @@
+Inheritance can be defined as the process where one class acquires the properties (methods and fields) of another.
+"extends" keyword is used to inherit the properties of a class.
+
+To be noted:- A subclass inherits all the members (fields, methods, and nested classes) from its superclass.

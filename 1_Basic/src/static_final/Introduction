@@ -1,0 +1,12 @@
+Static:
+    1. When a class member is declared static, it becomes global for all other members of the class.
+    2. A static variable and static method can be accessed with the class name in which it is defined
+        followed by the dot(.) operator.
+    3. Static block is executed only once when the class is loaded.
+
+Final:
+    Once a variable is declared as final; it can not be modified further in the program.
+    A final variable must be initialized at the time declaration.
+    The method declared as final can not be overridden by the subclass of that class in which final method is declared.
+
+

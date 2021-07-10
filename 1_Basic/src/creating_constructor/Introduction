@@ -1,0 +1,7 @@
+Constructor is a block of code which is called whenever an instance of class is created.
+It is a special type of method used to initialize the object.
+Every time an object is created using the new() keyword, at least one constructor is called.
+
+There are two types of constructors:
+    1. Default constructor (no-argument constructor)
+    2. Parameterized constructor

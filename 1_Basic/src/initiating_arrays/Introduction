@@ -1,0 +1,4 @@
+Array is an object which contains elements of a similar data type.
+There are two types of array.
+    - Single Dimensional Array (Syntax: dataType arr[]; )
+    - Multidimensional Array (Syntax: dataType[][] arrayRefVar; )
